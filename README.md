@@ -23,39 +23,31 @@ Build strong fundamentals for further analysis in SQL, Python, and Power BI.
 ---
 
 
- ✅ Day 2: Excel Data Formatting & Filtering
+ ✅ ### 🔹 Day 2: Employee Data Lookup (VLOOKUP vs XLOOKUP)
 
+📅 **Goal:** Automate employee detail retrieval using Excel’s lookup formulas.
 
-📅 Goal: Improve the readability and usability of the dataset using formatting, sorting, and filtering tools in Excel.
+#### ✅ Tasks Completed:
+- Implemented **VLOOKUP** to find employee details like:
+  - Name
+  - Department
+  - Salary
+  - Based on Employee ID
+- Used **XLOOKUP** as a modern alternative:
+  - Better flexibility and error handling
+  - Simpler syntax compared to VLOOKUP
+- Handled missing entries with fallback messages like `"Not Found"`
+- Created a clean, dynamic sheet that changes info based on ID input.
 
-✅ Tasks Completed:
-Applied cell formatting (font styles, borders, number/date formats).
+#### 🧠 Skills Gained:
+- Difference between `VLOOKUP` and `XLOOKUP`
+- Real-world HR lookup tasks automation
+- Error-free lookup handling
+- Better formula writing confidence
 
-Fixed the ##### issue in date columns by adjusting column width.
+#### 📂 File Uploaded:
+[`employee-lookup.xlsx`](./Day%202/employee-lookup.xlsx)
 
-Used conditional formatting to highlight:
-
-High revenue values.
-
-Low quantity orders.
-
-Applied Sorting to organize data by Product and Region.
-
-Used Filters to narrow down sales by region or product category.
-
-🧠 Skills Gained:
-Customizing table appearance for presentation.
-
-Identifying trends using color-based formatting.
-
-Sorting and filtering large datasets.
-
-Detecting issues in data formatting (like date visibility).
-
-Better understanding of how to prepare data for analysis.
-
-📂 File Uploaded:
-formatted-sales-data.xlsx
                                                               🔹 Day 3: Excel Pivot Tables
 
 📅 **Goal:** Learn how to summarize and analyze data using **Pivot Tables** in Excel.
