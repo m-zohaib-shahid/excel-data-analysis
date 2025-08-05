@@ -22,7 +22,10 @@ Build strong fundamentals for further analysis in SQL, Python, and Power BI.
 
 ---
 
-Day 2: Excel Data Formatting & Filtering
+
+ ✅ Day 2: Excel Data Formatting & Filtering
+
+
 📅 Goal: Improve the readability and usability of the dataset using formatting, sorting, and filtering tools in Excel.
 
 ✅ Tasks Completed:
@@ -53,9 +56,7 @@ Better understanding of how to prepare data for analysis.
 
 📂 File Uploaded:
 formatted-sales-data.xlsx
-
-
-🔹 Day 3: Excel Pivot Tables
+                                                              🔹 Day 3: Excel Pivot Tables
 
 📅 **Goal:** Learn how to summarize and analyze data using **Pivot Tables** in Excel.
 
